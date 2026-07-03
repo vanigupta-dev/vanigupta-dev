@@ -28,15 +28,13 @@ A technically disciplined developer specializing in machine learning pipelines, 
 
 ---
 
-### 📈 GitHub Ecosystem Core
+### 📈 GitHub Ecosystem Benchmarks
 
-![](https://img.shields.io/badge/Maintained-Yes-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)
-![](https://img.shields.io/badge/Profile_Status-Verified-238636?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Vani's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=vani-g0344&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
-#### ⚡ Engineering Matrix Metrics
-*  **Primary Focus:** Deep Learning Models & Prompt Orchestration
-*  **Language Optimization:** Python (Object-Oriented Architecture)
-*  **Data Integrity:** Enterprise SQL Queries & Schema Structures
+![Vani's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vani-g0344&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+
 
 ---
 
