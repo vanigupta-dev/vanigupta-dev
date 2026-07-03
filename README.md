@@ -30,10 +30,10 @@ A technically disciplined developer specializing in machine learning pipelines, 
 
 ### 📈 GitHub Ecosystem Benchmarks
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vani-g0344&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Vani's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vani-g0344&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Vani's Top Languages" height="150" />
-</p>
+![Vani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vani-g0344&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Vani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vani-g0344&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
 
 
 ---
