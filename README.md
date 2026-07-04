@@ -24,7 +24,7 @@ A technically disciplined developer specializing in machine learning pipelines, 
 * **Infosys Springboard:** Verified Core Technical Competency across Deep Learning, Generative AI, and Large Language Models.
 * **HackerRank Assessment:** Certified Software Engineer Intern competency benchmarked across rigorous DSA and SQL modules.
 * **NPTEL National Recognition:** Awarded **Elite + Gold** designation (Top Tier National Rank) in *Marketing Analytics* data systems.
-* **Amazon ML Summer School:** Officially shortlisted candidate for the competitive National Selection cohort.
+* **Amazon ML Summer School 2026:** Officially shortlisted candidate for the competitive National Selection cohort.
 * **Samsung Solve for Tomorrow:** Active innovator and national ecosystem challenge participant.
 
 ---
