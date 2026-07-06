@@ -32,9 +32,9 @@ A technically disciplined developer specializing in machine learning pipelines, 
 
 ### 📈 GitHub Ecosystem Benchmarks
 
-![Vani's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=vani-g0344&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true)
+![Vani's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=vanigupta-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true)
 
-![Vani's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vani-g0344&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Vani's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vanigupta-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 
 ---
